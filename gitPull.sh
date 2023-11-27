@@ -7,7 +7,7 @@ git init
 git remote add origin git@github.com:JustTheDude001/FullStackSprint01.git
 
 #Add everything in the folder to the repository
-git add *
+git add ./*
 
 #Commit what will be uploaded with a message
 git commit -m "My First Commit To Test"
@@ -25,4 +25,8 @@ git push -u origin main
 
 #git branch -l
 # list branches
+
+#git diff --stat --cached
+
+#git clone git@github.com:JustTheDude001/FullStackSprint01.git
 
