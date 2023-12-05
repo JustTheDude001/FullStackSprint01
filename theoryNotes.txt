@@ -1,0 +1,404 @@
+************************************************************************
+********************SPRINT 1 - THEORY NOTES ****************************
+************************************************************************
+
+**************************TOPICS****************************************
+- Tema 0: Development Environment
+- Tema 1: HTML and CSS
+- Tema 2: PHP Basics
+- Tema 3: Arrays
+- Tema 4: POO 1 - Object Oriented Programming 1
+- Tema 5: POO 2 - Object Oriented Programming 2
+- Tema 6: Advanced PHP
+- Tema 7: Debug/Test
+
+************************THEORY******************************************
+
+- Tema 0: Development Environment
+	- Git and Github
+	- Editor and IDE 
+	- PHP Environment
+	- XAMPP
+	- Repository
+
+
+- Tema 1: HTML and CSS
+	- HTML 5
+	- CSS
+		- Flexbox
+		- Grid Layout
+		- Tailwind CSS (Framework)
+		
+
+- Tema 2: PHP Basics
+	- Operations
+	- Functions
+	- Strict Mode
+	- Return Types
+	- XDebug
+	- PHPStorm
+	
+
+- Tema 3: Arrays
+	- Arrays
+	- Array Functions
+	- Map, Filter and Reduce
+	
+
+- Tema 4: POO 1 - Object Oriented Programming 1
+	- Include
+	- Requiere
+	- Include Once
+	- Requiere Once
+	- Classes in PHP
+		- Class Definition
+		- Properties Definition
+		- Methodes Definition
+	- Acces Modifiers
+	- Inheritance Modifiers
+	- Static Word
+	- Late Static Binding
+	
+
+- Tema 5: POO 2 - Object Oriented Programming 2
+	- Abstraction
+	- Abstract Class
+	- Interface
+	- Coding Standards
+
+- Tema 6: Advanced PHP
+	- Variables Scope
+	- Superglobal Variables
+	- Sessions in PHP
+	- Predefined / Magic Constants
+	- Magic Methodes
+	- Enums
+	- Traits
+	- Namespaces
+	- External Libraries
+	- Composer for PHP
+	- Project File Structure
+	
+
+- Tema 7: Debug/Test
+	- var_dump() function
+	- XDebug
+	- PHPUnit
+	- TDD - Test Driven Design
+
+
+*************************** EXERCISES **********************************
+
+- Tema 0: Development Environment
+	- Level 1:
+		Exercise 1:
+		- Create account in Github
+		- Create a new repository
+		Exercise 2:
+		- Clone the repository in the own computer
+		- Submit the repository link and a screen shot
+	
+	- Level 2:
+		Exercise 1:
+		- Create test files in the repository to practice
+		- Make different versions with commit
+		
+	- Level 3:
+		Exercise 1:
+		- Upload the different version to the repository
+
+
+
+- Tema 1: HTML and CSS
+	- Level 1:
+		Exercise 1:
+		- Layout the page for desktop
+		Exercise 2:
+		- Media queries / Responsive Layout
+		Exercise 3:
+		- Media Query / Responsive Layout Mobile
+	
+	- Level 2:
+		Exercise 4:
+		- Header Web
+			- Roll-over effect in links
+			- Media Queries and Responsivness
+			- CSS Opacity Property
+			- Icons
+		Exercise 5:
+		- Add Articles
+		
+	- Level 3:
+		Exercise 6:
+		- Keyframes CSS
+		
+		Exercise 7:
+		- Grid Layout
+		- Insert HTML with PHP For Clean Code
+		
+		*Add Code to Git
+	
+	
+	
+- Tema 2: PHP Basics
+	- Level 1:
+		Exercise 1:
+		- Define Variables and print them (int, double, string, bool)
+		- Show in title form a variable with own name
+		
+		Exercise 2:
+		- Print "Hello, World!" using a variable.
+		- ToUpperCase PHP Function
+		- Length of string
+		- Reverse Order String
+		- String Concatenate PHP
+		
+		Exercise 3:
+		- Int Variables Declaration
+		- Double Variables Declaration
+		- Numerical Operations:
+			- Sum
+			- Rest
+			- Product
+			- Modulus
+		- Calculator function
+		
+		Exercise 4:
+		- Count Function / For Loop
+		- Default values in function
+		- For Loop in PHP 
+		
+		Exercise 5:
+		- Student Grade Function
+		- IF Conditional
+		
+		Exercise 6:
+		- Random function PHP (radn())
+		
+	- Level 2:
+		Exercise 1:
+		- Call Cost Function
+		
+		Exercise 2:
+		- Candy Shop Price Calculator
+		
+	- Level 3:
+		Exercise 1:
+		- Prime Number "Calculator"
+		
+- Tema 3: Arrays
+	- Level 1:
+		Exercise 1:
+		- Define an array, add values to it and print them.
+		
+		Exercise 2:
+		- Count() Function for size of array
+		- unset() function 
+		- array_splice function
+		
+		Exercise 3:
+		- Array as Function Input parameter
+		
+		Exercise 4:
+		- Associative Array
+	
+	- Level 2:
+		Exercise 1:
+		- Array Intersection
+		- Array Mix
+		
+		Exercise 2:
+		- Pupils Grades Function
+	
+	- Level 3:
+		Exercise 1:
+		- Array Map
+		Exercise 2:
+		- Array Filter
+		Exercise 3:
+		- Array Reduce
+	
+- Tema 4: POO 1 - Object Oriented Programming 1
+	- Level 1:
+		Exercise 1:
+		- Create a Class, define attributes, Define __Construct Method, Define various Methods
+		Exercise 2:
+		- Subclasses - Shape Exercise
+	
+	- Level 2:
+		Exercise 1:
+		- Poker Dice Exercise
+	
+	- Level 3:
+		Exercise 1:
+		- Theater Program
+		- HTML, CSS and PHP Logic (ToDo Important!)
+	
+- Tema 5: POO 2 - Object Oriented Programming 2
+	- Level 1:
+		Exercise 1:
+		- Animals Sound
+	
+	- Level 2:
+		Exercise 1:
+		- Shape program with abstract Class
+	
+	- Level 3:
+		Exercise 1:
+		- Shape Program with Circle and Abstract Class
+	
+- Tema 6: Advanced PHP
+	- Level 1:
+		Exercise 1:
+		- HTML Form with PHP Action, Which shows values through superglobals
+		Exercise 2:
+		- Session Variables
+		
+	- Level 2:
+		Exercise 1:
+		- Magic Constants
+		Exercise 2:
+		- Magic Methods
+		
+	- Level 3:
+		Exercise 1:
+		- Enums
+		Exercise 2:
+		- Traits
+	
+- Tema 7: Debug/Test
+	- Level 1:
+		Exercise 1:
+		- Program the unitary tests for the class NUmberChecker
+		Exercise 2:
+		- Develop ex 5 level PHP Basics Using TDD
+	
+	- Level 2:
+		Exercise 1:
+		- Data Provider for Thema 7 Ex. 1 Level 1
+		Exercise 2:
+		- Data Provider for Thema 7 Ex. 1 Level 2
+	
+	- Level 3:
+		Exercise 1:
+		- Program using TDD The Program for libraries
+		
+	
+
+***************************SOURCES**************************************
+
+
+- Tema 0: Development Environment
+	- Git and Github
+		https://rogerdudler.github.io/git-guide/
+	- Editor and IDE
+		https://ed.team/blog/editor-vs-ide-que-usar-para-programar
+	- PHP Environment
+	- XAMPP
+	- Repository
+
+- Tema 1: HTML and CSS
+	- HTML 5
+		https://www.w3docs.com/snippets/html/html5-page-structure.html
+	- CSS
+		- Flexbox
+				https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+		- Grid Layout
+			https://developer.mozilla.org/es/docs/Web/CSS/CSS_grid_layout/Relationship_of_grid_layout_with_other_layout_methods
+		- Tailwind CSS (Framework)
+			https://www.youtube.com/watch?list=PLPl81lqbj-4JdoHDiERR2ptkw9zRggXAL&v=3xlUAMXui2c&feature=youtu.be
+		
+
+- Tema 2: PHP Basics
+	- PHP Documentation
+		https://www.php.net/
+	- Operations
+		https://www.w3schools.com/php/php_operators.asp
+	- Functions
+		https://www.w3schools.com/php/php_functions.asp
+	- Strict Mode
+		https://brainbell.com/php/strict-type.html?utm_content=cmp-true
+		https://programadorwebvalencia.com/cursos/php/funciones/
+	- Return Types
+		https://dev.to/karleb/return-types-in-php-3fip
+	- XDebug
+	- PHPStorm
+	
+
+- Tema 3: Arrays
+	- Arrays
+		https://programadorwebvalencia.com/cursos/php/arrays/
+	- Array Functions
+		https://www.w3schools.com/php/php_ref_array.asp
+		https://dev.to/karleb/10-php-array-functions-and-how-to-use-them-462n
+	- Map, Filter and Reduce
+		https://dev.to/gbhorwood/php-tame-arrays-with-map-filter-and-reduce-1h4j
+
+- Tema 4: POO 1 - Object Oriented Programming 1
+	- Include
+	- Requiere
+		https://desarrolloweb.com/articulos/sentencias-include-require-php
+	- Include Once
+	- Requiere Once
+		https://es.stackoverflow.com/questions/66754/cu%C3%A1l-es-la-diferencia-entre-require-require-once-include-include-once-en-php
+	- Classes in PHP
+		https://www.linkedin.com/pulse/101-introduction-class-attributes-objects-methods-selvakumar/
+		- Class Definition
+		- Properties Definition
+		- Methodes Definition
+	- Acces Modifiers
+		https://www.adaweb.es/modificadores-herencia-clases-php/
+	- Inheritance Modifiers
+		https://diego.com.es/modificadores-y-herencia-de-clases-en-php
+	- Static Word
+	- Late Static Binding
+		https://diego.com.es/late-static-binding-en-php
+	
+
+- Tema 5: POO 2 - Object Oriented Programming 2
+	- Abstraction
+	- Abstract Class
+		https://www.php.net/manual/en/language.oop5.abstract.php
+	- Interface
+		https://www.php.net/manual/en/language.oop5.interfaces.php
+	- Coding Standards
+		https://www.php-fig.org/psr/psr-1/
+
+- Tema 6: Advanced PHP
+	- Variables Scope
+		https://www.w3schools.com/php/php_variables_scope.asp
+	- Intefaces
+		https://users.cs.utah.edu/~germain/PPS/Topics/interfaces.html
+	- Superglobal Variables
+		https://www.php.net/manual/es/language.variables.superglobals.php
+	- Sessions in PHP
+		https://www.w3schools.com/php/php_sessions.asp
+	- Predefined / Magic Constants
+		https://www.php.net/manual/es/language.constants.predefined.php
+	- Magic Methodes
+		https://www.php.net/manual/es/language.oop5.magic.php
+	- Enums
+		https://stitcher.io/blog/php-enums
+	- Traits
+		https://www.php.net/manual/en/language.oop5.traits.php
+	- Namespaces
+		https://www.php.net/manual/en/language.namespaces.basics.php
+	- External Libraries
+	- Composer for PHP
+		https://getcomposer.org/
+	- Project File Structure
+		https://jairogarciarincon.com/clase/creacion-de-un-cms-desde-cero-con-patron-mvc/estructura
+		
+	
+
+- Tema 7: Debug/Test
+	- var_dump() function
+		https://www.simplilearn.com/tutorials/php-tutorial/var-dump-in-php
+	- XDebug
+		https://notasweb.me/entrada/debuggear-en-php-con-xdebug
+	- Debug Tools:
+		https://www.atatus.com/blog/php-debugging/#Tools%20to%20Consider%20for%20Debugging
+	- PHPUnit
+		https://www.freecodecamp.org/news/test-php-code-with-phpunit/
+	- TDD - Test Driven Design
+		https://startutorial.com/view/modern-php-developer-tdd

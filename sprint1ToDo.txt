@@ -1,0 +1,66 @@
+
+*****************************************************************
+************************ SPRINT 1 - TO DO ***********************
+*****************************************************************
+
+- Thema 1:
+	- Exercise 1 level 1:
+		- Check max width 1200 px for desktop [DONE]
+		
+- Thema 2:
+	- Exercise 1 level 1:
+		- Echo In Title Format <h2></h2>	[DONE]
+	
+- Thema 3:
+	- Exercise 2 Level 1:
+		- Add array_splice instead of unset function [DONE]
+	- Exercise 1 Level 2:
+		- Mescla vol dir amb o sense valors repetits? [ASK TEACHER]
+		(Fet sense valors repetits)
+
+- Thema 4
+	- Exercise 1 Level 2
+		- getTotalThrows shows the number of Throws or the result? [ASK TEACHER]
+		
+	!!!!!!!!!!!!!
+	- Exercise 1 Level 3
+		- A més, pots aprofitar aquest exercici per treballar una bona [!!!!!MISSING!!!!!]
+		 presentació amb HTML+CSS que doni suport a la lògica. 
+
+- Thema 5
+	- READ Standards PHP
+	
+	- Exercise 1 level 1:
+		- Define Sound directly in __construct without defining it when calling [ASK TEACHER IF NEEDED]
+		the construct magic method
+		*NOT Done because it is already shown in the exercise how to set different methods for the same method name.
+		
+- Thema 6
+	- READ Project Structure PHP Files
+	
+- Thema 7
+	- READ All noted Sources
+
+
+- Save PDF Theory and Exercises
+	- Missing:
+		- Thema 0
+			- Theory [DONE]
+			- Exercises[DONE]
+		- Thema 1
+			- Theory [DONE]
+		- Thema 2
+			- Theory [DONE]
+		- Thema 3
+			- Theory [DONE]
+			- Exercises [DONE]
+		- Thema 4
+			- Theory [DONE]
+		- Thema 5
+			- Theory
+		- Thema 6 [NONE]
+		- Thema 7 [NONE]
+
+- CORRECT ALL EXERCISES
+
+- SUBMIT ALL EXERCISES
