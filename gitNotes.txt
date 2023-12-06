@@ -1,0 +1,14 @@
+****************** MAIN GITHUB/GIT NOTES **********************
+
+#Add everything on the folder to push
+git add ./*
+#Add a text to the commit
+git commit -m "IdentificationText"
+
+#If needed:
+#Yes it is using SSH
+#Define the var origin to the github repository given
+git remote add origin git@github.com:JustTheDude001/FullStackSprint01.git
+
+#And flying it goes
+git push origin main

@@ -24,7 +24,7 @@
 		
 	!!!!!!!!!!!!!
 	- Exercise 1 Level 3
-		- A més, pots aprofitar aquest exercici per treballar una bona [!!!!!MISSING!!!!!]
+		- A més, pots aprofitar aquest exercici per treballar una bona [!!!!!MISSING!!!!!] [OK DONE]
 		 presentació amb HTML+CSS que doni suport a la lògica. 
 
 - Thema 5
